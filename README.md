@@ -1,5 +1,6 @@
-#Python Learning
+# Python Learning
 ##Basics
+
 ~~*The Python shell, basic arithmetic.~~
 ~~*Control structures.~~
 ~~*Accepting user input, Strings & Typecasting.~~
