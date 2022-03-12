@@ -38,5 +38,34 @@
 * Py-Torch
 * Scikit Learn
 
-# Databases
+## Unit testing
+* PyUnit
+* PyTest
+
+# General Computer Science
+
+## Version Control
+* Git / Github
+* ~~Push~~
+* Pull
+* ~~Commit~~
+
+## Databases
 * MySQL
+
+## Data Structures 
+* ~~Factory Method~~
+* Abstract Factory Pattern
+* Singleton
+* ~~Dependency Injection~~
+* Strategy pattern
+* Multiton
+* Adaptor
+* Bridge
+* ~~Decorator~~
+* Facade
+* Flyweight
+* Observer
+* ~~Iterator~~
+
+
