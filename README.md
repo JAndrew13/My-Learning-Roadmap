@@ -37,6 +37,7 @@
 * TensorFlow
 * Py-Torch
 * Scikit Learn
+* Jupyter Notebook
 
 ## Unit testing
 * PyUnit
@@ -52,6 +53,9 @@
 
 ## Databases
 * MySQL
+* PostgreSQL
+* MongoDB
+* Azure
 
 ## Data Structures 
 * ~~Factory Method~~
@@ -68,4 +72,26 @@
 * Observer
 * ~~Iterator~~
 
+# Javascript
+* Base Language
+* React
+* Node.JS
+* Angular
+* Vue.JS
 
+# HTML / CSS
+* Base Language
+
+# TypeScript
+* Base Language
+
+# PHP
+* Base Language
+* Bootstrap
+* AJAX
+* LAravel
+
+# C#/.Net
+* Rest API
+* Xamarin
+* Unity 3D
