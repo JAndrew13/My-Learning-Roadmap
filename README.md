@@ -1,7 +1,7 @@
 # Python Learning
-##Basics
+## Basics
 
-~~*The Python shell, basic arithmetic.~~
+* ~~The Python shell, basic arithmetic.~~
 ~~*Control structures.~~
 ~~*Accepting user input, Strings & Typecasting.~~
 ~~*Looping in Python: For & While loops.~~
