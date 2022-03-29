@@ -17,6 +17,9 @@
 * Lambdas
 * ~~List, Dictionaries & Tuples~~
 
+## Tools
+* Auth Zero
+
 ## Frameworks
 * Django
 * Flask
