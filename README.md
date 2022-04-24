@@ -1,4 +1,15 @@
-# Python Learning
+# Currently Studying
+* HTML
+* CSS
+
+# Study Queue
+* C#
+* Java
+* Vue
+* React
+
+# Python
+
 ## Basics
 
 * ~~The Python shell~~
