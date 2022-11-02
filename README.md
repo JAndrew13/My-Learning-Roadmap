@@ -1,6 +1,5 @@
 # Currently Studying
-* HTML
-* CSS
+* Flutter + Dart
 
 # Study Queue
 * C#
@@ -68,9 +67,9 @@
 ## Databases
 * MySQL
 * PostgreSQL
-* MongoDB
+* ~~MongoDB~~
 * Azure
-* Bootstrap
+* ~~Bootstrap~~
 
 ## Data Structures 
 * ~~Factory Method~~
@@ -88,14 +87,14 @@
 * ~~Iterator~~
 
 # Javascript
-* Base Language
-* React
-* Node.JS
+* ~~Base Language~~
+* ~~React~~
+* ~~Node.JS~~
 * Angular
 * Vue.JS
 
 # HTML / CSS
-* Base Language
+* ~~Base Language~~
 
 # TypeScript
 * Base Language
