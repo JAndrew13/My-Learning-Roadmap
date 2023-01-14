@@ -5,7 +5,7 @@
 * C#
 * Java
 * Vue
-* React
+* React (deep dive)
 
 # Python
 
@@ -59,9 +59,9 @@
 # General Computer Science
 
 ## Version Control
-* Git / Github
+* ~~Git / Github~~
 * ~~Push~~
-* Pull
+* ~~Pull~~
 * ~~Commit~~
 
 ## Databases
