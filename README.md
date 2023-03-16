@@ -1,9 +1,8 @@
 # Currently Studying
-* Flutter + Dart
+* ~~Flutter + Dart~~
 
 # Study Queue
-* C#
-* Java
+* ~~C#~~
 * Vue
 * React (deep dive)
 
@@ -68,7 +67,7 @@
 * MySQL
 * PostgreSQL
 * ~~MongoDB~~
-* Azure
+* ~~Azure~~
 * ~~Bootstrap~~
 
 ## Data Structures 
